@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary app colors -->
+    <color name="colorPrimary">#6200EE</color> <!-- Deep purple color -->
+    <color name="colorPrimaryDark">#3700B3</color> <!-- Darker purple for emphasis -->
+    <color name="colorAccent">#03DAC5</color> <!-- Teal accent color -->
+
+    <!-- Background and text colors -->
+    <color name="white">#FFFFFF</color> <!-- White background -->
+    <color name="black">#000000</color> <!-- Black text color -->
+    <color name="gray">#808080</color> <!-- Neutral gray for placeholders or borders -->
+
+    <!-- Button colors -->
+  <!-- White text for buttons -->
+
+    <!-- Additional colors -->
+    <color name="lightGray">#E0E0E0</color> <!-- Light gray for subtle backgrounds or borders -->
+    <color name="errorColor">#B00020</color> <!-- Red for error messages or validation -->
+
+    <!-- res/values/colors.xml -->
+
+        <color name="primaryColor">#6200EE</color>
+        <color name="primaryDarkColor">#3700B3</color>
+        <color name="accentColor">#03DAC5</color>
+        <color name="textColorPrimary">#FFFFFF</color>
+        <color name="textColorSecondary">#000000</color>
+        <color name="backgroundColor">#F0F0F0</color>
+
+        <color name="loginBackgroundColor">#E3F2FD</color> <!-- Light blue background -->
+
+
+        <!-- Primary Colors -->
+        <color name="primaryTextColor">#FFFFFF</color>
+        <color name="secondaryTextColor">#757575</color>
+        <color name="editTextBackground">#FFFFFF</color>
+
+        <!-- Button Colors -->
+        <color name="buttonColor">#101010</color> <!-- Green button background -->
+        <color name="buttonTextColor">#FFFFFF</color> <!-- White button text -->
+
+        <!-- Background Colors -->
+        <color name="signupBackground">#1E88E5</color> <!-- Light blue background for signup page -->
+
+        <!-- Button Colors -->
+
+
+        <!-- Background Colors -->
+        <color name="loginBackground">#F9FDFC</color> <!-- Light blue background -->
+
+        <!-- Other Colors -->
+        <color name="hintTextColor">#BDBDBD</color>
+
+
+
+
+</resources>
